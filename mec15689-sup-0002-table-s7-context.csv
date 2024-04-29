@@ -1,0 +1,44 @@
+DMC,Cluster_ID,ClusterSize,Clustering,MethDiffProp,Gene,TE function,Gradient,Context
+Fvb2_3495577,5030,1,Solitary,0.286458333,FvH4_2g04530,DNAtranpsoson_Putative harbinger transposase,Spatial,CHG
+Fvb1_10671324,2239,1,Solitary,0.983606557,FvH4_1g18340,DNAtransposon_En/Spm tranposase,Spatial,CG
+Fvb1_12260058,2670,1,Solitary,0.267316017,FvH4_1g20080,DNAtransposon_En/Spm tranposase,Spatial,CHG
+Fvb1_16064901,3770,1,Solitary,0.556069211,FvH4_1g24190,DNAtransposon_En/Spm tranposase,Spatial,CG
+Fvb1_16065268,3771,1,Solitary,0.9875,FvH4_1g24190,DNAtransposon_En/Spm tranposase,Spatial,CHG
+Fvb1_16068204,3773,1,Solitary,0.435897436,FvH4_1g24190,DNAtransposon_En/Spm tranposase,Spatial,CG
+Fvb3_16013821,11305,1,Solitary,0.367348881,FvH4_3g22860,DNAtransposon_En/Spm tranposase,Spatial,CHG
+Fvb3_16014164,11306,2,Linked,0.478017241,FvH4_3g22860,DNAtransposon_En/Spm tranposase,Spatial,CHG
+Fvb3_16014327,11307,1,Solitary,0.55684806,FvH4_3g22860,DNAtransposon_En/Spm tranposase,Spatial,CG
+Fvb4_18909595,18068,2,Linked,0.955555556,FvH4_4g15290,DNAtransposon_En/Spm tranposase,Spatial,CG
+Fvb1_1181495,318,2,Linked,0.608108108,FvH4_1g02200,DNAtransposon_MuDR family transposase,Spatial,CG
+Fvb1_1181631,319,2,Linked,0.64,FvH4_1g02210,DNAtransposon_MuDR family transposase,Spatial,CG
+Fvb1_1182099,320,1,Solitary,0.802197802,FvH4_1g02210,DNAtransposon_MuDR family transposase,Spatial,CG
+Fvb1_1184304,321,2,Linked,0.814963376,FvH4_1g02210,DNAtransposon_MuDR family transposase,Spatial,CG
+Fvb4_7836368,15419,1,Solitary,0.624884224,FvH4_4g08120,DNAtransposon_MuDR family transposase,Spatial,CG
+Fvb2_22519950,7883,1,Solitary,0.436507937,FvH4_2g28860,DNAtransposon_mutator-like transposase,Altitudinal,CG
+Fvb3_4619038,9332,1,Solitary,0.684210526,FvH4_3g07850,DNAtransposon_mutator-like transposase,Spatial,CG
+Fvb4_14299689,17064,1,Solitary,0.253679654,FvH4_4g10530,DNAtransposon_mutator-like transposase,Spatial,CHH
+Fvb4_10684306,16014,1,Solitary,0.746947836,FvH4_4g09210,DNAtransposon_putative transposase,Spatial,CG
+Fvb4_12553119,16524,1,Solitary,0.326086957,FvH4_4g10040,DNAtransposon_putative transposase,Spatial,CG
+Fvb4_7960323,15430,1,Solitary,0.649593496,FvH4_4g08160,DNAtransposon_putative transposase,Spatial,CG
+Fvb6_17474763,29056,2,Linked,0.515463918,FvH4_6g23430,DNAtransposon_putative transposase,Spatial,CHG
+Fvb6_28016448,30454,1,Solitary,0.628279545,FvH4_6g35510,DNAtransposon_putative transposase,Spatial,CHG
+Fvb6_29963018,30770,1,Solitary,0.313392392,FvH4_6g37930,DNAtransposon_putative transposase,Spatial,CHG
+Fvb6_29964103,30771,1,Solitary,0.644230769,FvH4_6g37930,DNAtransposon_putative transposase,Spatial,CHG
+Fvb6_31895273,31082,1,Solitary,0.316247582,FvH4_6g40350,DNAtransposon_putative transposase,Spatial,CHH
+Fvb6_14396080,28744,2,Linked,0.532110092,"FvH4_6g20900,FvH4_6g20910","DNAtransposon_ubiquitin-protein ligase, putative transposase",Spatial,CG
+Fvb6_14396266,28746,11,Clustered,0.826530612,"FvH4_6g20900,FvH4_6g20910","DNAtransposon_ubiquitin-protein ligase, putative transposase",Spatial,CG
+Fvb7_4980683,33734,1,Solitary,0.257142857,FvH4_7g04400,Histone-lysine N-methyltransferase,Spatial,CHH
+Fvb1_14075909,3284,1,Solitary,0.915176715,FvH4_1g22120,Retrotransposon,Spatial,CG
+Fvb1_14078745,3285,2,Linked,0.868654311,FvH4_1g22120,Retrotransposon,Spatial,CG
+Fvb1_14081712,3287,1,Solitary,0.909090909,FvH4_1g22120,Retrotransposon,Spatial,CHH
+Fvb5_16280021,24399,1,Solitary,0.605633803,FvH4_5g24860,Retrotransposon_copia-like transposon,Spatial,CG
+Fvb1_23424555,4671,1,Solitary,0.575757576,FvH4_1g29810,Retrotransposon_Retrovirus-related Pol polyprotein from transposon 17.6,Spatial,CHG
+Fvb3_29394777,12385,1,Solitary,0.369587898,FvH4_3g33970,Retrotransposon_Retrovirus-related Pol polyprotein from transposon RE1 (repressor element) (LTR-retrotransposon),Spatial,CHH
+Fvb3_4049025,9255,1,Solitary,0.298076923,FvH4_3g06950,Retrotransposon_Retrovirus-related Pol polyprotein from transposon RE1 (repressor element) (LTR-retrotransposon),Spatial,CHG
+Fvb3_5015925,9373,1,Solitary,0.278409091,FvH4_3g08580,Retrotransposon_Retrovirus-related Pol polyprotein from transposon RE1 (repressor element) (LTR-retrotransposon),Spatial,CHG
+Fvb4_16240020,17589,1,Solitary,0.282736573,FvH4_4g12550,Retrotransposon_Retrovirus-related Pol polyprotein from transposon RE1 (repressor element) (LTR-retrotransposon),Spatial,CHG
+Fvb4_16240290,17590,2,Linked,0.319315068,FvH4_4g12550,Retrotransposon_Retrovirus-related Pol polyprotein from transposon RE1 (repressor element) (LTR-retrotransposon),Spatial,CHH
+Fvb2_3530997,5032,1,Solitary,0.258064516,FvH4_2g04610,Retrotransposon_Ta11-like non-LTR retrotransposon,Spatial,CHG
+Fvb2_3531877,5033,2,Linked,0.35,FvH4_2g04610,Retrotransposon_Ta11-like non-LTR retrotransposon,Spatial,CG
+Fvb2_3532244,5035,3,Linked,0.885714286,FvH4_2g04610,Retrotransposon_Ta11-like non-LTR retrotransposon,Spatial,CHG
+Fvb4_5681671,14734,25,Clustered,0.490196078,FvH4_4g06410,Retrotransposon_Ta11-like non-LTR retrotransposon,Spatial,CG
